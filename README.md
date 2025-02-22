@@ -13,3 +13,4 @@
 
 <h3> Modules which has been used: </h3>
 <h4>tkinter, opencv, tensorflow, numpy, PIL </h4>
+<P>A individual can use <b> emotion_detector_gui.py </b> for GUI to run through <u>tkinter module. </u> Or <b>app.py</b> is used to run it on web browser through<u>streamlit module</u> you can select on your own prefernces.</P>
